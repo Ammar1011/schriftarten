@@ -1,0 +1,64 @@
+.body {
+    padding: 4rem;
+}
+
+section p:nth-child(1) {
+    font-family: "Barlow", sans-serif;
+}
+section p:nth-child(2) {
+    font-family: "Fira Sans", sans-serif;
+}
+section p:nth-child(3) {
+    font-family: "Inconsolata", monospace;
+}
+section p:nth-child(4) {
+    font-family: "Lato", sans-serif;
+}
+section p:nth-child(5) {
+    font-family: "Macondo", cursive;
+}
+section p:nth-child(6) {
+    font-family: "Merriweather", serif;
+}
+section p:nth-child(7) {
+    font-family: "Mukta", sans-serif;
+}
+section p:nth-child(8) {
+    font-family: "Oleo Script Swash Caps", cursive;
+}
+section p:nth-child(9) {
+    font-family: "Patrick Hand", cursive;
+}
+section p:nth-child(10) {
+    font-family: "Playfair Display", serif;
+}
+section p:nth-child(11) {
+    font-family: "Roboto", sans-serif;
+}
+section p:nth-child(12) {
+    font-family: "Roboto Condensed", sans-serif;
+}
+section p:nth-child(13) {
+    font-family: "Roboto Mono", monospace;
+}
+section p:nth-child(14) {
+    font-family: "Roboto Slab", serif;
+}
+section p:nth-child(15) {
+    font-family: "Rubik", sans-serif;
+}
+section p:nth-child(16) {
+    font-family: "Satisfy", cursive;
+}
+section p:nth-child(17) {
+    font-family: "Shadows Into Light", cursive;
+}
+section p:nth-child(18) {
+    font-family: "Ubuntu", sans-serif;
+}
+section p:nth-child(19) {
+    font-family: "Water Brush", cursive;
+}
+section p:nth-child(20) {
+    font-family: "Work Sans", sans-serif;
+}
